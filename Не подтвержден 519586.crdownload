@@ -1,0 +1,425 @@
+<!DOCTYPE html><html xmlns:umi="http://www.umi-cms.ru/TR/umi">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Модный Променад - план нашего трк</title>
+<meta name="description" content="В этом разделе вы сможете в полной мере изучить схему нашего торгового центра и расположение всех магазинов.">
+<meta name="keywords" content="трк модный променад схема, трк модный променад план">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><script>
+	window.pageData = {"pageId":"95","page":{"alt-name":"plan11"},"title":"\u041c\u043e\u0434\u043d\u044b\u0439 \u041f\u0440\u043e\u043c\u0435\u043d\u0430\u0434 - \u043f\u043b\u0430\u043d \u043d\u0430\u0448\u0435\u0433\u043e \u0442\u0440\u043a","lang":"ru","lang_id":1,"domain":"modnypromenad.ru","domain_id":1,"meta":{"keywords":"\u0442\u0440\u043a \u043c\u043e\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u043c\u0435\u043d\u0430\u0434 \u0441\u0445\u0435\u043c\u0430, \u0442\u0440\u043a \u043c\u043e\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u043c\u0435\u043d\u0430\u0434 \u043f\u043b\u0430\u043d","description":"\u0412 \u044d\u0442\u043e\u043c \u0440\u0430\u0437\u0434\u0435\u043b\u0435 \u0432\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u0432 \u043f\u043e\u043b\u043d\u043e\u0439 \u043c\u0435\u0440\u0435 \u0438\u0437\u0443\u0447\u0438\u0442\u044c \u0441\u0445\u0435\u043c\u0443 \u043d\u0430\u0448\u0435\u0433\u043e \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0438 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432."}};
+</script>
+
+<script src="/js/cms/jquery.compiled.js?87681" charset="utf-8"></script>
+<script src="/js/guest.js?87681" charset="utf-8"></script>
+<link type="text/css" rel="stylesheet" href="/js/jquery/fancybox/jquery.fancybox.css?87681" /><link rel="canonical" href="http://modnypromenad.ru/services/plan11/">
+<link href="/min/f=/templates/metall/css/bootstrap.css" rel="stylesheet">
+<link href="/min/f=/templates/metall/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="/min/f=/templates/metall/css/jquery-ui.css" rel="stylesheet">
+<link href="/min/f=/templates/metall/css/chosen.css" rel="stylesheet">
+<link href="/min/f=/templates/metall/css/style.css" rel="stylesheet">
+<link href="/templates/metall/css/user.css" rel="stylesheet">
+<style>
+                    	li.good img {
+    						border-bottom: 0px solid #fff;
+    					}
+                        .cst_workhours {
+                            font: 20px/24px 'opensans';
+                            margin-bottom: 10px;
+                            text-align: left;
+                        }
+                        .blind_mode .cst_workhours {
+                            font-size: 25px;
+                        }
+                        @media (max-width: 768px) {
+                            .cst_workhours {
+                                margin-bottom: 15px;
+                                text-align: center;
+                            }
+                        }
+                    </style>
+<link href="/templates/metall/images/favicon.ico" rel="shortcut icon" type="image/ico">
+<script src="/min/f=/templates/metall/js/scripts.js"></script><script src="/min/f=/templates/metall/js/jquery.bxslider.js"></script>
+</head>
+<body>
+<div class="main">
+<header><div class="header">
+<div id="header-container" class="container"><div class="row">
+<div class="span4"><a href="/" class="logo" umi:object-id="423" umi:field-name="logo"><img xmlns:xlink="http://www.w3.org/TR/xlink" alt="ТРК «Модный Променад»" title="ТРК «Модный Променад»" umi:object-id="423" umi:field-name="logo" src="/images/cms/thumbs/b21b2879349cde1c4eaab563bdf5f3d997c682e3/promenad-logo-1_2021_370_120_png.png"></a></div>
+<div class="span3">
+<p class="callback" style="margin-top: 10px !important;"><a umi:field-name="telephone" umi:object-id="423" class="phone" target="_blank" value="+7 (812) 313-65-33" href="tel:+7%20(812)%20313-65-33"><span>+7 (812)</span> 
+													 313-65-33</a></p>
+<div class="cst_workhours">10:00 – 22:00</div>
+</div>
+<div class="span2">
+<img src="/images/cms/eye.png" style="width: 40px;"><div id="btn-sand-blind"><span>Включить версию</span></div>
+</div>
+<noindex><div id="m10" class="span3"><p class="contacts text-right" itemscope="itemscope" itemtype="http://schema.org/Organization"><span itemprop="name" class="hidden">ТРК «Модный Променад»</span><span itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress"><span umi:field-name="addresslocality" umi:object-id="423" itemprop="addressLocality">Санкт-Петербург</span>,<br><span umi:field-name="streetaddress" umi:object-id="423" itemprop="streetAddress">Комендантский пр., д. 9, к. 2, лит. A</span></span><br>
+
+													E-mail: 
+													<a href="mailto:simvol@business-city.spb.ru" itemprop="email" umi:field-name="email" umi:object-id="423">simvol@business-city.spb.ru</a><br>
+
+													Телефоны: 
+													<a target="_blank" href="tel:+7%20(812)%20313-65-33" value="+7 (812) 313-65-33" itemprop="telephone" umi:field-name="telephone" umi:object-id="423">+7 (812) 313-65-33</a></p></div></noindex>
+</div></div>
+<div class="navbar navbar-inverse navbar-fixed-top"><div class="navbar-inner "><div class="container">
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a><a class="btn-menu" data-target="nav-collapse">Меню:</a><div class="nav-collapse collapse"><ul class="nav pull-right" umi:add-method="popup" umi:sortable="sortable" umi:method="menu" umi:module="content" umi:element-id="0">
+<li umi:element-id="26" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/#h">Главная</a></li>
+<li umi:element-id="1" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete" class="active">
+<a href="/services/#h">Магазины</a><ul class="submenu">
+<li><a href="/services/plan1/#h">Женская одежда</a></li>
+<li><a href="/services/plan2/#h">Мужская одежда</a></li>
+<li><a href="/services/plan3/#h">Обувь</a></li>
+<li><a href="/services/plan4/#h">Аксессуары</a></li>
+<li><a href="/services/plan5/#h">Электроника и бытовая техника</a></li>
+<li><a href="/services/plan6/#h">Сувениры, подарки, предметы интерьера</a></li>
+<li><a href="/services/plan7/#h">Товары для детей</a></li>
+<li><a href="/services/plan8/#h">Продукты питания</a></li>
+<li><a href="/services/plan10/#h">Товары для спорта и отдыха</a></li>
+<li><a href="/services/plan11/#h">Сфера обслуживания</a></li>
+<li><a href="/services/plan12/#h">Товары для здоровья</a></li>
+<li><a href="/services/plan13/#h">Косметика и парфюмерия</a></li>
+<li><a href="/services/plan14/#h">Бельё и домашняя одежда</a></li>
+<li><a href="/services/tovary-dlya-zhivotnyh/#h">Товары для животных</a></li>
+</ul>
+</li>
+<li umi:element-id="4" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">
+<a href="/news1/#h">Новости и акции</a><ul class="submenu">
+<li><a href="/news1/letual-do-80-chernaya-pyatnica1/#h">PIERRE CARDIN! BLACK WEEK</a></li>
+<li><a href="/news1/vesna-blizko/#h">ВЕСНА БЛИЗКО</a></li>
+</ul>
+</li>
+<li umi:element-id="12" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/turning/#h">Ресторан Плюшкин</a></li>
+<li umi:element-id="82" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/plan-kompleksa/#h">План комплекса</a></li>
+<li umi:element-id="21" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/contacts/#h">Контакты</a></li>
+</ul></div>
+</div></div></div>
+</div></header><div class="bord"></div>
+<div class="mob-hidden"></div>
+<div class="container columns-wrap"><div class="row">
+<div class="span4">
+<div class="sidebar-nav"><ul class="nav nav-list" umi:add-method="popup" umi:sortable="sortable" umi:method="menu" umi:module="content" umi:element-id="95">
+<li umi:element-id="80" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan1/#h">Женская одежда</a></li>
+<li umi:element-id="86" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan2/#h">Мужская одежда</a></li>
+<li umi:element-id="87" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan3/#h">Обувь</a></li>
+<li umi:element-id="88" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan4/#h">Аксессуары</a></li>
+<li umi:element-id="89" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan5/#h">Электроника и бытовая техника</a></li>
+<li umi:element-id="90" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan6/#h">Сувениры, подарки, предметы интерьера</a></li>
+<li umi:element-id="91" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan7/#h">Товары для детей</a></li>
+<li umi:element-id="92" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan8/#h">Продукты питания</a></li>
+<li umi:element-id="94" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan10/#h">Товары для спорта и отдыха</a></li>
+<li umi:element-id="95" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete" class="active"><a href="/services/plan11/#h">Сфера обслуживания</a></li>
+<li umi:element-id="96" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan12/#h">Товары для здоровья</a></li>
+<li umi:element-id="97" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan13/#h">Косметика и парфюмерия</a></li>
+<li umi:element-id="98" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/plan14/#h">Бельё и домашняя одежда</a></li>
+<li umi:element-id="280" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete"><a href="/services/tovary-dlya-zhivotnyh/#h">Товары для животных</a></li>
+</ul></div>
+<div class="sidebar form">
+<h3 umi:field-name="text_aside" umi:object-id="423">Анкета потенциального арендатора</h3>
+<div class="form_title"></div>
+<div class="form-order"><form method="post" action="/webforms/send/" class="control-group ajax-form" id="order">
+<input type="hidden" name="system_email_to" value="750"><noindex><div class="alert alert-success" style="display: none;"><div class="h3">Спасибо за интерес. Мы ответим на ваше письмо в ближайшее время.</div></div>
+<div class="error-msg"></div></noindex><div class="span4">
+<div class="control-group">
+<span class="field-tip">Укажите значение в правильном формате</span><input type="text" name="data[new][your_name]" class="input-block-level" placeholder="Ваше имя" pattern="^[а-яёА-ЯЁa-zA-Z\s]{2,20}$">
+</div>
+<div class="control-group"><input type="text" name="data[new][your_phone]" class="input-block-level phone_mask" placeholder="Телефон"></div>
+<div class="control-group"><input type="text" name="data[new][order_email]" class="input-block-level" placeholder="Email"></div>
+<div class="control-group"><input type="text" name="data[new][order_text]" class="input-block-level" placeholder="Требуемая площадь"></div>
+<div class="control-group"><input type="text" name="data[new][order_text1]" class="input-block-level" placeholder="Вид деятельности"></div>
+<div class="control-group"><input type="text" name="data[new][service]" class="hidden" style="display:none;" value="Сфера обслуживания"></div>
+<input type="hidden" name="system_form_id" value="83"><input type="hidden" name="ref_onsuccess" value="/webforms/posted/83"><div><label><script src="https://www.google.com/recaptcha/api.js?hl=ru"></script><div class="g-recaptcha" data-sitekey="6LcYqJIUAAAAAKrLPQrSSAyfLp4JGyWmH17iyhFB"></div></label></div>
+<div class="clear"></div>
+<div class="control-group"><div class="checkbox"><lable umi:object-id="423" umi:field-name="agreement"><input type="checkbox" required="required" checked><p>Согласен с <a href="/main/privacy/">условиями работы сайта</a> и обработкой персональных данных</p></lable></div></div>
+<div class="no_space">
+<input class="btn hidden" type="reset" value="Очистить"><div class="button"><input class="btn ajax-send" type="submit" value="ОТПРАВИТЬ ЗАЯВКУ"></div>
+</div>
+</div>
+</form></div>
+</div>
+</div>
+<div class="span8">
+<a name="h" class="mob-block"></a><ul class="breadcrumbs">
+<li><a href="/services/">Магазины</a></li>
+<li>Сфера обслуживания</li>
+</ul>
+<div class="news_lents" umi:element-id="95" umi:region="list" umi:module="news" umi:sortable="sortable" umi:button-position="top right"></div>
+<h1 umi:element-id="95" umi:field-name="h1">Сфера обслуживания</h1>
+<div umi:element-id="95" umi:field-name="content"></div>
+<ul class="tile-3 list mob-c">
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/ingosstrah-strahovaya-kompaniya/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="322"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/i7__250_png_5_80.png" alt="«Ингосстрах» - страховая компания" title="«Ингосстрах» - страховая компания"></a><div class="h5"><a href="/services/plan11/ingosstrah-strahovaya-kompaniya/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="322">«Ингосстрах» - страховая компания</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="322" umi:empty="Содержание страницы"><p>&laquo;<strong>Ингосстрах</strong>&raquo; - страховая компания с 75-летним опытом работы, которая предоставляет услуги для физических и юридических лиц. Компания многие годы является лидером в страховании каско, ответственности морских, воздушных и автомобильных перевозчиков, грузов и космической отрасли.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/ekspress-masterskaya-atel-e-trk-modnyj-promenad/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="317"><img src="/images/cms/thumbs/828cbecf99f7b262b6c1e433000db9610f1b895e/akk__250_jpg_5_80.jpg" alt="Экспресс-мастерская Ателье                                       (ТРК Модный Променад)" title="Экспресс-мастерская Ателье                                       (ТРК Модный Променад)"></a><div class="h5"><a href="/services/plan11/ekspress-masterskaya-atel-e-trk-modnyj-promenad/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="317">Экспресс-мастерская Ателье                                       (ТРК Модный Променад)</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="317" umi:empty="Содержание страницы"><p style="text-align: justify;">Выполняем любой ремонт одежды в ателье на Комендантском Проспекте. Отличное качество, профессиональное оборудование, приветливые мастрера по ремонту одежды и домашнего текстиля в ТРК Модный Променад.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/chistotronik/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="314"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/chisto_logo1__250_jpg_5_80.jpg" alt="Чистотроник - сеть умных химчисток" title="Чистотроник - сеть умных химчисток"></a><div class="h5"><a href="/services/plan11/chistotronik/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="314">Чистотроник - сеть умных химчисток</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="314" umi:empty="Содержание страницы"><p>Сеть умных химчисток с&nbsp;профессиональным уходом за вещами и&nbsp;удобным дистанционным обслуживанием.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/pickpoint-postamat/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="316"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/logo_pik_pojnt_1__250_jpg_5_80.jpg" alt="PickPoint постамат" title="PickPoint постамат"></a><div class="h5"><a href="/services/plan11/pickpoint-postamat/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="316">PickPoint постамат</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="316" umi:empty="Содержание страницы"><p><strong>PickPoint &ndash;</strong>&nbsp;логистический сервис, доставляющий онлайн-заказы через постаматы и пункты выдачи.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/zhenskij-fitnes-klub-i-taliya1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="312"><img src="/images/cms/thumbs/0c30304297cc5e3fc523f3534e1d33e79870b4ff/logo_italiya_dvojnoe__250_jpg_5_80.jpg" alt="Женский фитнес-клуб И-Талия " title="Женский фитнес-клуб И-Талия "></a><div class="h5"><a href="/services/plan11/zhenskij-fitnes-klub-i-taliya1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="312">Женский фитнес-клуб И-Талия </a></div>
+<div class="content" umi:field-name="anons" umi:element-id="312" umi:empty="Содержание страницы"><p><strong>Женский фитнес-клуб И-Талия</strong> - фитнес клуб на Комендантском в ТРК Модный Променад.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/salon-krasoty-vitaya-trc-modnyj-promenad/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="151"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/sk10__250_jpg_5_80.jpg" alt="Салон красоты ВиТая (ТРЦ Модный Променад)" title="Салон красоты ВиТая (ТРЦ Модный Променад)"></a><div class="h5"><a href="/services/plan11/salon-krasoty-vitaya-trc-modnyj-promenad/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="151">Салон красоты ВиТая (ТРЦ Модный Променад)</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="151" umi:empty="Содержание страницы"><p><span style="color: #333333;">Cтрижки, прически, укладки и уходовые процедуры Комендантский проспект (3 минуты от метро) от Топ-мастеров.</span></p>
+<h3>&nbsp;</h3></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/karusel-ka/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="195"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/karusel__250_jpg_5_80.jpg" alt="Каруселька" title="Каруселька"></a><div class="h5"><a href="/services/plan11/karusel-ka/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="195">Каруселька</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="195" umi:empty="Содержание страницы"><p>Детская парикмахерская</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/k-nogtyu/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="196"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/knogtu__250_jpg_5_80.jpg" alt="К ногтю" title="К ногтю"></a><div class="h5"><a href="/services/plan11/k-nogtyu/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="196">К ногтю</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="196" umi:empty="Содержание страницы"><p>Студия маникюра</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/grimerka-6/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="199"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/grimerka__250_jpg_5_80.jpg" alt="Grimerka №6" title="Grimerka №6"></a><div class="h5"><a href="/services/plan11/grimerka-6/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="199">Grimerka №6</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="199" umi:empty="Содержание страницы"><p>Студия красоты</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/free-flowers/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="200"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/freeflovers__250_jpg_5_80.jpg" alt="Free Flowers" title="Free Flowers"></a><div class="h5"><a href="/services/plan11/free-flowers/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="200">Free Flowers</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="200" umi:empty="Содержание страницы"><p>Продажа и доставка цветов</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/aurum1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="204"><img src="/images/cms/thumbs/16265b34f3791ef3c2df9421fa698e6667c10263/aurum__250_jpg_5_80.jpg" alt="Aurum" title="Aurum"></a><div class="h5"><a href="/services/plan11/aurum1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="204">Aurum</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="204" umi:empty="Содержание страницы"><p>Компания &laquo;AURUM&raquo; &ndash; это крупнейшая сеть сервисных центров Санкт-Петербурга, обеспечивающая высококлассный сервис по часам и ювелирным изделиям во всех районах города.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/yablochnyj-servis1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="205"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/yablochniiservis__250_png_5_80.png" alt="Яблочный сервис" title="Яблочный сервис"></a><div class="h5"><a href="/services/plan11/yablochnyj-servis1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="205">Яблочный сервис</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="205" umi:empty="Содержание страницы"><p>Ремонт и обслуживание компьютеров Apple, iPhone, iPad и iPod</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/brow-makeup-atelier-browbar-n1-v-peterburge/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="206"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/browimakeap__250_jpg_5_80.jpg" alt="BROW&amp;MAKEUP atelier-browbar N1 в Петербурге" title="BROW&amp;MAKEUP atelier-browbar N1 в Петербурге"></a><div class="h5"><a href="/services/plan11/brow-makeup-atelier-browbar-n1-v-peterburge/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="206">BROW&amp;MAKEUP atelier-browbar N1 в Петербурге</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="206" umi:empty="Содержание страницы"><p>-это концептуальная студия где основное направление -полный спектр по созданию идеальных бровей - моделирование , окраска стойкими красителями и хной, реставрация бровей с помощью их наращивания, ламинирование бровей и ресниц, все виды макияжа.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/atel-e-etalon/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="209"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/etalon__250_jpg_5_80.jpg" alt="Ателье «Эталон»" title="Ателье «Эталон»"></a><div class="h5"><a href="/services/plan11/atel-e-etalon/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="209">Ателье «Эталон»</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="209" umi:empty="Содержание страницы"><p>Сеть ателье &laquo;Эталон&raquo; осуществляет пошив эксклюзивной одежды и ремонт брендовой одежды на самом высоком уровне.</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/stil-i-podarki1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="210"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/stilipodarki__250_jpg_5_80.jpg" alt="«Стиль и Подарки»" title="«Стиль и Подарки»"></a><div class="h5"><a href="/services/plan11/stil-i-podarki1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="210">«Стиль и Подарки»</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="210" umi:empty="Содержание страницы"><p>&laquo;Стиль и Подарки&raquo;- здесь рождаются подарки!</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/art-botte1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="213"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/artbotte__250_jpg_5_80.jpg" alt='"ART-BOTTE"' title='"ART-BOTTE"'></a><div class="h5"><a href="/services/plan11/art-botte1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="213">"ART-BOTTE"</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="213" umi:empty="Содержание страницы"><p>"ART-BOTTE"</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/vserossijskaya-set-nezavisimyh-rentgenodiagnosticheskih-centrov-pikasso/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="215"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/pikasso__250_png_5_80.png" alt="Всероссийская сеть независимых рентгенодиагностических центров ПИКАССО" title="Всероссийская сеть независимых рентгенодиагностических центров ПИКАССО"></a><div class="h5"><a href="/services/plan11/vserossijskaya-set-nezavisimyh-rentgenodiagnosticheskih-centrov-pikasso/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="215">Всероссийская сеть независимых рентгенодиагностических центров ПИКАССО</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="215" umi:empty="Содержание страницы"><p>Всероссийская сеть независимых рентгенодиагностических центров ПИКАССО</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/chasiki3/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="244"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/logo3__250_png_5_80.png" alt="«Часики»" title="«Часики»"></a><div class="h5"><a href="/services/plan11/chasiki3/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="244">«Часики»</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="244" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/nord-barbers-muzhskaya-parikmaherskaya/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="252"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/b1__250_jpg_5_80.jpg" alt="NORD BARBERS - мужская парикмахерская" title="NORD BARBERS - мужская парикмахерская"></a><div class="h5"><a href="/services/plan11/nord-barbers-muzhskaya-parikmaherskaya/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="252">NORD BARBERS - мужская парикмахерская</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="252" umi:empty="Содержание страницы"><p>NORD BARBERS - мужская парикмахерская (барбершоп) в ТРК Модный Променад.&nbsp;</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/solyanaya-pewera-chudo-sol/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="289"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/img-20211116-wa0000__250_jpg_5_80.jpg" alt="Соляная пещера «ЧУДО СОЛЬ»" title="Соляная пещера «ЧУДО СОЛЬ»"></a><div class="h5"><a href="/services/plan11/solyanaya-pewera-chudo-sol/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="289">Соляная пещера «ЧУДО СОЛЬ»</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="289" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/laser-love-lazernaya-epilyaciya-i-apparatnaya-kosmetologiya/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="290"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/ll1__250_jpg_5_80.jpg" alt="Laser Love - лазерная эпиляция и аппаратная косметология" title="Laser Love - лазерная эпиляция и аппаратная косметология"></a><div class="h5"><a href="/services/plan11/laser-love-lazernaya-epilyaciya-i-apparatnaya-kosmetologiya/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="290">Laser Love - лазерная эпиляция и аппаратная косметология</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="290" umi:empty="Содержание страницы"><p style="text-align: justify;">Laser Love - <span>сеть студий эпиляции и внешней эстетики. Мы предлагаем&nbsp;</span><span>комплекс услуг по удалению нежелательных волос, по удалению морщин лица,</span><span>&nbsp;улучшению контуров тела.&nbsp;</span></p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/studiya-professional-nogo-manikyura-malina2/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="294"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/log_tkani__250_jpg_5_80.jpg" alt="Шторы и Ткани" title="Шторы и Ткани"></a><div class="h5"><a href="/services/plan11/studiya-professional-nogo-manikyura-malina2/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="294">Шторы и Ткани</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="294" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/shkola-oblachnyh-tehnologij/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="303"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/ppkp__250_jpg_5_80.jpg" alt="Школа облачных технологий" title="Школа облачных технологий"></a><div class="h5"><a href="/services/plan11/shkola-oblachnyh-tehnologij/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="303">Школа облачных технологий</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="303" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/ekzomassazh1/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="308"><img src="/images/cms/thumbs/6b1b49df27e363fbff24149ba834107d72b1903e/img_85451__250_jpg_5_80.jpg" alt="УЧЕБНЫЙ ЦЕНТР «КОННЕССАНС»" title="УЧЕБНЫЙ ЦЕНТР «КОННЕССАНС»"></a><div class="h5"><a href="/services/plan11/ekzomassazh1/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="308">УЧЕБНЫЙ ЦЕНТР «КОННЕССАНС»</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="308" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/severnoe-siyanie/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="310"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/b_-_ta_-_-_tb_tp_-_-_-tv__250_jpg_5_80.jpg" alt="Северное Сияние" title="Северное Сияние"></a><div class="h5"><a href="/services/plan11/severnoe-siyanie/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="310">Северное Сияние</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="310" umi:empty="Содержание страницы"><p>Центр художественной гимнастики "Северное Сияние"</p></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/studiya-anny-serovoj/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="318"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/logo__250_png_5_80.png" alt="СТУДИЯ АННЫ СЕРОВОЙ" title="СТУДИЯ АННЫ СЕРОВОЙ"></a><div class="h5"><a href="/services/plan11/studiya-anny-serovoj/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="318">СТУДИЯ АННЫ СЕРОВОЙ</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="318" umi:empty="Содержание страницы"></div>
+</div></li>
+<li class="good"><div class="small_wrap text-center">
+<a href="/services/plan11/yandeks-market-postamat-komendantskij-9-k-2-trc-modnyj-promenad/" rel="nofollow" umi:field-name="anons_pic" umi:element-id="319"><img src="/images/cms/thumbs/e71a647f9928482c4e373cd8b784c6fa52b4a584/yam_3__250_jpg_5_80.jpg" alt="Яндекс Маркет Постамат (Комендантский 9 к.2 ТРЦ Модный Променад)" title="Яндекс Маркет Постамат (Комендантский 9 к.2 ТРЦ Модный Променад)"></a><div class="h5"><a href="/services/plan11/yandeks-market-postamat-komendantskij-9-k-2-trc-modnyj-promenad/#h" umi:field-name="h1" umi:delete="delete" umi:element-id="319">Яндекс Маркет Постамат (Комендантский 9 к.2 ТРЦ Модный Променад)</a></div>
+<div class="content" umi:field-name="anons" umi:element-id="319" umi:empty="Содержание страницы"><p><strong>Яндекс Маркет Постамат</strong> - это автоматическое хранилище для самостоятельного получения заказа с сайта Яндекс Маркет.</p></div>
+</div></li>
+</ul>
+<div class="content" umi:element-id="95" umi:field-name="down_text"></div>
+</div>
+</div></div>
+<div class="hfooter"></div>
+</div>
+<footer><div class="footer">
+<div class="container"><div class="row relative">
+<div class="span2"><div class="h5"><a href="/#h" umi:element-id="26" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Главная</a></div></div>
+<div class="span2">
+<div class="h5"><a href="/services/#h" umi:element-id="1" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Магазины</a></div>
+<ul>
+<li><a href="/services/plan1/#h" umi:element-id="80" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Женская одежда</a></li>
+<li><a href="/services/plan2/#h" umi:element-id="86" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Мужская одежда</a></li>
+<li><a href="/services/plan3/#h" umi:element-id="87" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Обувь</a></li>
+<li><a href="/services/plan4/#h" umi:element-id="88" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Аксессуары</a></li>
+<li><a href="/services/plan5/#h" umi:element-id="89" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Электроника и бытовая техника</a></li>
+<li><a href="/services/plan6/#h" umi:element-id="90" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Сувениры, подарки, предметы интерьера</a></li>
+<li><a href="/services/plan7/#h" umi:element-id="91" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Товары для детей</a></li>
+<li><a href="/services/plan8/#h" umi:element-id="92" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Продукты питания</a></li>
+<li><a href="/services/plan10/#h" umi:element-id="94" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Товары для спорта и отдыха</a></li>
+<li><a href="/services/plan11/#h" umi:element-id="95" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Сфера обслуживания</a></li>
+<li><a href="/services/plan12/#h" umi:element-id="96" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Товары для здоровья</a></li>
+<li><a href="/services/plan13/#h" umi:element-id="97" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Косметика и парфюмерия</a></li>
+<li><a href="/services/plan14/#h" umi:element-id="98" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Бельё и домашняя одежда</a></li>
+<li><a href="/services/tovary-dlya-zhivotnyh/#h" umi:element-id="280" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Товары для животных</a></li>
+</ul>
+</div>
+<div class="span2">
+<div class="h5"><a href="/news1/#h" umi:element-id="4" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Новости и акции</a></div>
+<ul>
+<li><a href="/news1/letual-do-80-chernaya-pyatnica1/#h" umi:element-id="326" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">PIERRE CARDIN! BLACK WEEK</a></li>
+<li><a href="/news1/vesna-blizko/#h" umi:element-id="323" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">ВЕСНА БЛИЗКО</a></li>
+</ul>
+</div>
+<div class="span2"><div class="h5"><a href="/turning/#h" umi:element-id="12" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Ресторан Плюшкин</a></div></div>
+<div class="span2">
+<div class="h5"><a href="/contacts/#h" umi:element-id="21" umi:region="row" umi:field-name="name" umi:empty="Название раздела" umi:delete="delete">Контакты</a></div>
+<div>
+<p><span umi:field-name="postalcode" umi:object-id="423">197227</span>, 
+							<span umi:field-name="addresslocality" umi:object-id="423">Санкт-Петербург</span>,<br><span umi:field-name="streetaddress" umi:object-id="423">Комендантский пр., д. 9, к. 2, лит. A</span></p>
+<p class="decor"><a target="_blank" href="tel:+7%20(812)%20313-65-33" value="+7 (812) 313-65-33" umi:field-name="telephone" umi:object-id="423">+7 (812) 313-65-33</a><br><a target="_blank" href="tel:" value="" umi:field-name="telephone2" umi:object-id="423"></a></p>
+<p class="decor"><a href="mailto:simvol@business-city.spb.ru" umi:field-name="email" umi:object-id="423">simvol@business-city.spb.ru</a></p>
+</div>
+<p class="map"><a href="/sitemap/">Карта сайта</a></p>
+</div>
+</div></div>
+<div class="footer_bottom"><div class="container"><div class="row">
+<div class="span4"><p class="copyright">© 2023 
+												<span umi:object-id="423" umi:field-name="company_name">ТРК «Модный Променад»</span></p></div>
+<div class="span4 text-center social_network"><noindex><script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,gplus" data-counter=""></div></noindex></div>
+<div class="span4"><div class="mob-u"></div></div>
+</div></div></div>
+</div></footer><span id="go_top">Наверх</span><noindex><div class="hidden"></div></noindex><script src="/min/f=/templates/metall/js/forms_send.js"></script><script src="/min/f=/templates/metall/js/bootstrap.min.js"></script><script src="/min/f=/templates/metall/js/bootstrap-modal.js"></script><script src="/min/f=/templates/metall/js/jquery.maskedinput.js"></script><script src="/min/f=/templates/metall/js/chosen.jquery.min.js"></script><style>
+                        .blind_mode header .logo > img {
+                            display: block !important;
+                        }
+                    </style>
+<script>
+/*
+ * JS: Blind mode
+ */
+
+var bBtn = '#btn-sand-blind';
+var bKey = 'sand_blind_mode_exp';
+
+function blindModeOff() {
+ 	$('body').addClass('blind_mode');
+    $(bBtn).html('<span>Включить обычную версию</span>');
+    $('img.nm-plan').hide();
+    $('img.bd-plan').show();
+}
+
+function blindModeOn() {
+	$('body').removeClass('blind_mode');
+ 	$(bBtn).html('<span>Включить версию для слабовидящих</span>');
+    $('img.nm-plan').show();
+    $('img.bd-plan').hide();
+}
+
+function setModeNormal() {
+	blindModeOn();
+}
+
+function setModeBlind() {
+	blindModeOff();
+}
+
+$( document ).ready(function() {
+	var bMode = getCookie(bKey);
+    if (bMode == undefined) {
+    	setModeNormal();
+    } else if (bMode == 'on') {
+    	setModeBlind();
+    } else {
+    	setModeNormal();
+    }
+    $(bBtn).click(changeBlindMode);
+});
+
+function changeBlindMode() {
+	var bMode = getCookie(bKey);
+ 	if (bMode == undefined) {
+ 		addCookie(bKey, 'on');
+ 		setModeBlind();
+ 	} else {
+ 		if (bMode == 'on') {
+ 			addCookie(bKey, 'off');
+ 			setModeNormal();
+ 		} else {
+ 			addCookie(bKey, 'on');
+ 			setModeBlind();
+ 		}
+ 	}
+}
+
+function getCookie(name) {
+	var matches = document.cookie.match(new RegExp(
+    	"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+	));
+	if(matches == null) {
+	    return undefined;
+	}
+	console.log(matches);
+	console.log(decodeURIComponent(matches[1]));
+	return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+
+function removeCookie(name) {
+	updateCookieWithExpires(name, 'off', -2);
+}
+
+function addCookie(name, value) {
+	updateCookieWithExpires(name, value, 2);
+}
+
+function updateCookieWithExpires(name, value, days) {
+	var d = new Date();
+	d.setDate((new Date()).getDate() + days);
+
+	options = {
+		expires: d.toUTCString(),
+		path: '/'
+	};
+	updateCookie(name, value, options);
+}
+
+function updateCookie(name, value, options) {
+	value = encodeURIComponent(value);
+  	var updatedCookie = name + "=" + value;
+
+  	for (var propName in options) {
+    	updatedCookie += "; " + propName;
+    	var propValue = options[propName];
+    	if (propValue !== true) {
+      		updatedCookie += "=" + propValue;
+    	}
+  	}
+	document.cookie = updatedCookie;
+}
+
+					</script>
+</body>
+</html>
+<!-- This page generated in 0.329965 secs by XSLT, SITE MODE -->
